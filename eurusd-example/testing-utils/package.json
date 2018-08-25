@@ -1,0 +1,16 @@
+{
+  "name": "oraclize-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "enrollAdmin.js",
+  "dependencies": {
+    "fabric-ca-client": "^1.2.1",
+    "fabric-client": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
